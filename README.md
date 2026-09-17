@@ -4,6 +4,9 @@
 To implement a full wave bridge rectifier with and without filter and to measure and compare the output and peak inverse voltages.
 ## CIRCUIT DIAGRAM:
 
+<img width="585" height="685" alt="image" src="https://github.com/user-attachments/assets/c9221d12-894f-495b-8c42-7cf10418690b" />
+
+
 ## PROCEDURE:
 1.	Connections are made as shown in the circuit diagram.
 	
@@ -15,4 +18,10 @@ To implement a full wave bridge rectifier with and without filter and to measure
 
 ## OUTPUT:
 
+<img width="830" height="356" alt="image" src="https://github.com/user-attachments/assets/535a726e-0f73-4894-bca1-e1ff6a90c8f0" />
+
+
 ## RESULT:
+
+<img width="1436" height="292" alt="image" src="https://github.com/user-attachments/assets/71a58fc9-22ad-471f-b110-b4d4483821cb" />
+
